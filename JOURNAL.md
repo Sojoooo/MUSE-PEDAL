@@ -56,3 +56,10 @@ Today i just researched for solutions for the transistors. I found that in the p
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--38084bebe797bc516b67fde6a9ffdf9d22b52815/image.png)
   
 
+## 10/14/2025 6:04 PM - September 10: Octaver Plan  
+
+I was searching into boss pedals, and after seing how more complex the schematics where compared to the previous ones i made, ive started meditating if i actually needed a distortion/overdrive when having a black russian and animato. I decided it was not worth it. Although, when searching more in chris's equipment, i found he also used an boss octaver, which altough it was as difficult to make as the distortion, i think it was more worth it. I couldnt complete this one one day. I got into a bit of a problem, because of the need for a germanium diode, but i found out that schotty diodes with a resistnce have a simmilar funtionality, so i used that. Also, im seeing some ics i dont really get, and something about 4V i dont really understand, but i managed to do a lot.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--6fa9e4b9633f119c51b95b050e4e0e58b0d72388/image.png)
+  
+
