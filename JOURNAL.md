@@ -91,3 +91,10 @@ Start of the pcb. I decided to arrange the pedals as: Octaver, big muff, animato
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--63b3925c42040597a05b67ca611062d5eb502a44/image.png)
   
 
+## 10/14/2025 6:11 PM - September 17: PCB Progress  
+
+I made the woolly mammoth next. It was a bit easier that the last one. quite fun and relaxing. It was similar to making the black russian, though it had less components. It was still a challenge to try mantaining the compact recangular shape i wanted to do. I think keeping that in mind will help me in the future when i actually put it all together.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--bea2ff02c2ae8c7754f102ca4245f899417d23ec/image.png)
+  
+
