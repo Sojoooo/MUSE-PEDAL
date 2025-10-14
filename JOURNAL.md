@@ -77,3 +77,10 @@ I made the output and input of the pedal. The jack will be the only interactve p
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--91eac8cfd4bceadc6ca72ee585c41d82cefd1ff4/image.png)
   
 
+## 10/14/2025 6:07 PM - September 15: Power Circuit  
+
+Today i just made the power. Im going to mount the dc jack to the case. I also added a schotty so you connect it incorrectly. I took way too long with this part since i wanted to use a mosfet insted of the schotty to reduce the voltage drop, but i finally decided i didnt actually understood what i was doing and gave up.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--c11c1c5323b65a9f7cb2e05c74fccf1e4cd48c80/image.png)
+  
+
