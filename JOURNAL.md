@@ -63,7 +63,7 @@ I was searching into boss pedals, and after seing how more complex the schematic
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--6fa9e4b9633f119c51b95b050e4e0e58b0d72388/image.png)
   
 
-## 10/14/2025 6:05 PM - # September 11: Octaver Flip-Flops  
+## 10/14/2025 6:05 PM - September 11: Octaver Flip-Flops  
 
 I found out those ics where some kind of flip flops. After checking the schematic and asking my teacher, i think the 4v should be conected between each other but im not sure. Im going to add some terminals in case they do need to get connected and connect them if the pedal doesnt work. I finished the pedal.
 
