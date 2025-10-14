@@ -112,3 +112,11 @@ Last pedal. I was a bit rushed today so i could finish it. It was even a bit mor
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0MywicHVyIjoiYmxvYl9pZCJ9fQ==--34591c5f45c4c612d02f87452ec2ba38b8e31ead/image.png)
   
 
+## 10/14/2025 6:16 PM - September 20: PCB Done  
+
+I finished the octaver. I was able to mantain a pretty shape.  
+I layed out all the pedals as they would be connected. I put in order from left to right, since i will be probably flipping the board when i mount it to the cad. This is to make it so that the input and output goes from right to left, which i have seen in most of the pedals i have used. I think is something about most of them like been made in japan. I also made arranged the input and output and power and connected it all. Also, to diminish interference, i made the bottom and top layer gnd planes with stitching vias.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--f52537f29d0e939cf3ad1908e874209ea8d95e5b/image.png)
+  
+
