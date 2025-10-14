@@ -10,7 +10,7 @@ This is my journal of the design and building process of **MUSE PEDAL**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/509).
 
 
-## 10/14/2025 - September 2: Inspiration  
+## 10/14/2025 5 PM - September 2: Inspiration  
 
 I've been woking with electronics in music a lot recently, and i fell into the rabbit hole of DIY PEDALS. I've watched lots of videos of people making their own pedals through kits, or schematics, and i've been really curious about analog signaling recently, so i wanted to give it a try.
 
@@ -26,5 +26,12 @@ From [equipboard](https://equipboard.com/pros/chris-wolstenholme), i've decided 
 - Boss OS-2 OverDrive/Distortion
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--a7912d4541648e5e5f874e582cbc346801b2a959/image.png)
+  
+
+## 10/14/2025 6 PM - September 4: Big Muff Pi  
+
+I started making the big muff pi black russian. It was difficult to understand at first what i was doing, since i was also not acostumed to easyeda, but making it was actually quite relaxing. When looking for the pots and the footswitch on lcsc i realized they dont sell them. Specially not pots with does high resistances. Also, i realized how teadious it would be to somehow mount the switched and pots to the board and tracing all that stuff, so i decided to resolve that next day. Another thing is that i decided on using film caps on coupling and filters as they have a low tolerance.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--8ed22a26ab34da434d61a2a3d951a5f3829cb405/image.png)
   
 
