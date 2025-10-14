@@ -127,3 +127,10 @@ Today i started making the cad with the pcb as the model. I forgot to make the s
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--1819cb76d321b7a004d008b38ed00e5f59ceb692/image.png)
   
 
+## 10/14/2025 6:18 PM - October 4: Case Work  
+
+After a short break for exams, i’m back. Im going to finish the cad. I added the bottom lid. I though about it i and prefered it that way since i dont want to see the screws on the top. Although it took me a while, i finally decided on a layout to maximize the space inside and includes the 8 screw holes i need for all the mounting. I added the the jack input and output holes. I was not quite sure how i would fit the pcb inside the case with does sticking out, but i think i did i wide enought and rounded the corners of the jack hole to make it wasier to fit inside. I also added the dc jack hole.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--612a9e582edaf6c89055c8f0213b17a73d753317/image.png)
+  
+
