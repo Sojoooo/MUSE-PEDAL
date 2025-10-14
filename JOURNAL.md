@@ -42,3 +42,10 @@ In this day i made the woolly mammoth fuzz. It was actually easier to make. Its 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzMywicHVyIjoiYmxvYl9pZCJ9fQ==--eafc179aed377e535fdfbea438f615de0547f575/image.png)
   
 
+## 10/14/2025 6:02 PM - September 8: Animato  
+
+Today it was the turn of the animato pedal. It took me a while to first understand what the footswitch made. After some extensive research, i found out that it was a layout to half bypass the pedal that was commonly used by pedals, since in that time, 9 pin foot switches werent as common as they are now. Though i say half bypass because it acutally doesnt fully bypass the pedal, it just bypasses the distortion. Because of this, i decided to change it to a full bypass since the pedal board will be all in one pcb, i prefer it so that the user can fully jump over a pedal. After that, i encountered another problem and that was the NTE102/NTE103 transistor pairing. The problem about this transistors are that they are germanium transistors, which stop been mass made a while ago, and they are quite difficult to find. I will just make the schematic without them and resolve that problem next day.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--ed5be4d9f711821ee693e3242b3bdc105e034940/image.png)
+  
+
