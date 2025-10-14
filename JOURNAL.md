@@ -10,7 +10,7 @@ This is my journal of the design and building process of **MUSE PEDAL**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/509).
 
 
-## 10/14/2025 - September 10: Inspiration  
+## 10/14/2025 - September 2: Inspiration  
 
 I've been woking with electronics in music a lot recently, and i fell into the rabbit hole of DIY PEDALS. I've watched lots of videos of people making their own pedals through kits, or schematics, and i've been really curious about analog signaling recently, so i wanted to give it a try.
 
