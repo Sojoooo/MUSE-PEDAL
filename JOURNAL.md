@@ -84,3 +84,10 @@ Today i just made the power. Im going to mount the dc jack to the case. I also a
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--c11c1c5323b65a9f7cb2e05c74fccf1e4cd48c80/image.png)
   
 
+## 10/14/2025 6:08 PM - September 16: PCB Start  
+
+Start of the pcb. I decided to arrange the pedals as: Octaver, big muff, animato and woolly. I started with the black russian as i though it was the most satisfactory. I made it so it could be as compact as it could, trying to just use the top layer for sound traces, and bottom layer for power. I was succesfull.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--63b3925c42040597a05b67ca611062d5eb502a44/image.png)
+  
+
