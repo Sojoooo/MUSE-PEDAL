@@ -49,3 +49,10 @@ Today it was the turn of the animato pedal. It took me a while to first understa
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--ed5be4d9f711821ee693e3242b3bdc105e034940/image.png)
   
 
+## 10/14/2025 6:03 PM - September 9: Transistor Search  
+
+Today i just researched for solutions for the transistors. I found that in the pdf of the schematic, in previous versions a 2N5087/2N5088 paring was used insted of the ones mentioned. Although they arent selling them any more in lcsc, they still have the symbol and footprint. I also found them in mouser. Looking more into mouser i found they sell the log taper or audio taper pots i was needing, so that could be a viable solution to that problem.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--38084bebe797bc516b67fde6a9ffdf9d22b52815/image.png)
+  
+
