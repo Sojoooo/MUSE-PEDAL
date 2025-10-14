@@ -98,3 +98,10 @@ I made the woolly mammoth next. It was a bit easier that the last one. quite fun
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--bea2ff02c2ae8c7754f102ca4245f899417d23ec/image.png)
   
 
+## 10/14/2025 6:11 PM - September 18: Animato Layout  
+
+Next it was the animato. It was a a bit larger than the previous ones, but still quite simple. I actually started measuring the size of the different pedal seccions and was quite surprised by how small they where. I was actually a bit worried, since i hadnt seen pedals that small, and maybe they where ment to be large for a reason. I ended up discovering that it was probably because of the pots mounted on the pcb, which i had solved with the screw terminals, so there was probably no real threat.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--23f0601521dd948998cec71b77ed1496ca0514f0/image.png)
+  
+
