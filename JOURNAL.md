@@ -28,10 +28,17 @@ From [equipboard](https://equipboard.com/pros/chris-wolstenholme), i've decided 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--a7912d4541648e5e5f874e582cbc346801b2a959/image.png)
   
 
-## 10/14/2025 6 PM - September 4: Big Muff Pi  
+## 10/14/2025 6:00 PM - September 4: Big Muff Pi  
 
 I started making the big muff pi black russian. It was difficult to understand at first what i was doing, since i was also not acostumed to easyeda, but making it was actually quite relaxing. When looking for the pots and the footswitch on lcsc i realized they dont sell them. Specially not pots with does high resistances. Also, i realized how teadious it would be to somehow mount the switched and pots to the board and tracing all that stuff, so i decided to resolve that next day. Another thing is that i decided on using film caps on coupling and filters as they have a low tolerance.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--8ed22a26ab34da434d61a2a3d951a5f3829cb405/image.png)
+  
+
+## 10/14/2025 6:01 PM - September 5: Woolly Mammoth  
+
+In this day i made the woolly mammoth fuzz. It was actually easier to make. Its really simple. For the footswitches and pots problem, i have decided to mount them to the case. I would get them from somewhere else. Maybe temu, or maybe i could look on some local electronics store. The problem is that, although foot switches for bypass are more standard, pots have more specific resistances and even the taper matters. I looked for options and found affordable footswitches on temu and pots, but they are all linear, while most of the ones i need are log taper. I will keep looking for a solution to this. Either way, i will put screw terminals as the pots and bypass switches so that they can connect the pcb to the mounted pots and switches. I will also add them all to the other side of the pcb so that they dont occupy that much space on it, and any film cap or electrolitic ends up covering the cable hole.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzMywicHVyIjoiYmxvYl9pZCJ9fQ==--eafc179aed377e535fdfbea438f615de0547f575/image.png)
   
 
