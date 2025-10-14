@@ -70,3 +70,10 @@ I found out those ics where some kind of flip flops. After checking the schemati
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzNywicHVyIjoiYmxvYl9pZCJ9fQ==--d22731ecb86b68625fe9714e0b2651ed6319005a/image.png)
   
 
+## 10/14/2025 6:06 PM - September 13: I/O System  
+
+I made the output and input of the pedal. The jack will be the only interactve piece mounted to the pcb. I added a system bypass so that you can easily bypass all the active pedals easely. I also added a prebuffering, even before the bypass, so that the signal doesnt loses strenght.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--91eac8cfd4bceadc6ca72ee585c41d82cefd1ff4/image.png)
+  
+
