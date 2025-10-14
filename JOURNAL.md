@@ -134,3 +134,10 @@ After a short break for exams, i’m back. Im going to finish the cad. I added t
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--612a9e582edaf6c89055c8f0213b17a73d753317/image.png)
   
 
+## 10/14/2025 6:19 PM - October 5: Final CAD + Silk  
+
+When adding the cad to jlccnc, i discovered somehow it was cheaper to add a silk screen to the cad, so i did that. I think i made a cool design. It also said that for threaded holes you needed a drawing telling the specifications, which led me into a rabbit hole of threaded holes, but at the end it wasnt that hard.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0NywicHVyIjoiYmxvYl9pZCJ9fQ==--494e456710fc3c4d45e55ad5b732fc5e7d3966f8/image.png)
+  
+
