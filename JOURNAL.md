@@ -120,3 +120,10 @@ I layed out all the pedals as they would be connected. I put in order from left 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--f52537f29d0e939cf3ad1908e874209ea8d95e5b/image.png)
   
 
+## 10/14/2025 6:17 PM - September 21: CAD Start  
+
+Today i started making the cad with the pcb as the model. I forgot to make the screw holes in the pcb so i added does. I decided on m3 screws. I was just able to make the top holes for the different things mounted and the screw holes to hold the pcb.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--1819cb76d321b7a004d008b38ed00e5f59ceb692/image.png)
+  
+
