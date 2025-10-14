@@ -105,3 +105,10 @@ Next it was the animato. It was a a bit larger than the previous ones, but still
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--23f0601521dd948998cec71b77ed1496ca0514f0/image.png)
   
 
+## 10/14/2025 6:16 PM - September 19: Octaver Layout  
+
+Last pedal. I was a bit rushed today so i could finish it. It was even a bit more difficult since in previous ones i was able to mantain a more rectangular/square shape for the overall layout, but because of the amount of chips, it was getting a bit difficult to preimagine how to make it a pretty coherent shape. I think it might be possible next day.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0MywicHVyIjoiYmxvYl9pZCJ9fQ==--34591c5f45c4c612d02f87452ec2ba38b8e31ead/image.png)
+  
+
