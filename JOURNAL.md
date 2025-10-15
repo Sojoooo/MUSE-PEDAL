@@ -141,3 +141,10 @@ When adding the cad to jlccnc, i discovered somehow it was cheaper to add a silk
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0NywicHVyIjoiYmxvYl9pZCJ9fQ==--494e456710fc3c4d45e55ad5b732fc5e7d3966f8/image.png)
   
 
+## 10/15/2025 - October 14: Budget  
+
+After checking the cost of the pedalboard and its lid, which went well over $400 even before adding the pots and switches, I decided to make some adjustments. First, the PCBA would only include the SMD components, mostly resistors and decoupling capacitors, since I don’t own a heat gun or similar tools. I’ll buy all the through-hole components, which make up most of the chips in the pedalboard, from LCSC to solder them by hand. I’ll also get a pair of helping hands, since they’ll definitely be needed for over 60 parts. The footswitches and linear pots will come from Temu, as they’re affordable and reliable, while the log pots and 2N5087/2N5088 transistors will be ordered from Mouser, since I couldn’t find them anywhere else.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--c7913b083d21e5babd43ada2eea9b92b9b73f615/image.png)
+  
+
